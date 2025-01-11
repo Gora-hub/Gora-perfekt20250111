@@ -3,4 +3,4 @@ Első repo
 # szerkesztettem a readme-t
 # konfliktus megoldása
 # második konfliktus megoldva
-# tesztelés branchot szerkesztem
+# dev és tesztkonfliktus
