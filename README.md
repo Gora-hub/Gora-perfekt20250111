@@ -2,4 +2,4 @@
 Első repo
 # szerkesztettem a readme-t
 # konfliktus megoldása
-# pullos probléma
+# második konfliktus megoldva
